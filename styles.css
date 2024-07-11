@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://img.freepik.com/free-vector/frightening-halloween-realistic-background_33099-1052.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1{
+color: rgb(240, 246, 243);
+margin-left: 500px;
+}
+h3{
+color: rgb(241, 16, 16);
+margin-left: 500px;
+}
+#btn{
+color: rgb(3, 242, 255);
+margin-left: 500px
+}
+#guessinput{
+color: blueviolet;
+margin-left: 500px;
+}
